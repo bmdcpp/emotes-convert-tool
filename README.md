@@ -1,2 +1,2 @@
-# emo-convert
+# emot-convert
 Emoticons conv utility
